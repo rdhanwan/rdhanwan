@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dhanwan Ramasane
 - 👀 I’m interested in solutioning the problems, learning new skils and improving my knowledge.
 - 🌱 I’m currently learning Microservices development using Python, Sprint Boot, Type Script, React JS.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Microservices, Full stack development.
 - 📫 How to reach me on Mobile - 8884898555
 
 <!---
